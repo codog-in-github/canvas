@@ -1,11 +1,11 @@
 {
-  "name": "try-css",
+  "name": "live-face",
   "version": "1.0.0",
   "main": "index.js",
   "author": "zjy <zhaojangyu@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "serve": "npx webpack serve --node-env development",
+    "dev": "npx webpack serve --node-env development",
     "build": "npx webpack --node-env production"
   },
   "devDependencies": {
